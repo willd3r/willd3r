@@ -68,7 +68,7 @@
 ###
 
 <div align="left">
-  <a href="mailto:wsosa4124@gmail.com">Enviarme un mensaje</a> target="_blank">
+  <a href="mailto:wsosa4124@gmail.com"><Enviarme un mensaje</a> target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/william-sosa/" target="_blank">
