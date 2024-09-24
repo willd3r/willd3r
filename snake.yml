@@ -4,7 +4,7 @@ on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
 
-  willd3r:
+  willd3r_dispatch:
 
   push:
     branches:
