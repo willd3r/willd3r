@@ -4,11 +4,11 @@ on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
 
-  workflow_dispatch:
+  willd3r:
 
   push:
     branches:
-    - master
+    - gh-pages
 
 jobs:
   generate:
